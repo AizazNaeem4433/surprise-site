@@ -7,7 +7,7 @@ const quicksand = Quicksand({
 });
 
 export const metadata = {
-  title: "A Cute Surprise!",
+  title: "A Cute Surprise| for Sheeza",
   description: "A simple yet heartfelt little surprise, made just for you — with a playful twist at the end.",
 };
 
